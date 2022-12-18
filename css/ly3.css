@@ -1,0 +1,85 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.main {
+    background-color: rgb(165, 165, 165);
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: larger;
+}
+
+.Logo {
+    display: block;
+    flex: 2;
+    background-color: aliceblue;
+    height: 40px;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.Nav {
+    display: block;
+    flex: 2;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+}
+
+.c1 {
+    display: block;
+    background-color: rgb(255, 211, 211);
+    flex: 1;
+    margin-right: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  
+  .c2{
+    display: block;
+    background-color: rgb(255, 211, 211);
+    flex: 1;
+    margin-top: 10px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .box{
+    display: block;
+    background-color: bisque;
+    flex: 1;
+    margin-right: 8px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.box2{
+    display: block;
+    background-color: bisque;
+    flex: 1;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer{
+    background-color: rgb(237, 218, 255);
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
