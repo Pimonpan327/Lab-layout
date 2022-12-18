@@ -1,0 +1,93 @@
+body{
+    padding: 50px;
+    margin: 50px;
+}
+
+.main{
+    background-color: rgb(117, 114, 114);
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: larger;
+}
+
+.Logo{
+    display: block;
+    flex: 2;
+    background-color: aliceblue;
+    height: 40px;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.Nav{
+    display: block;
+    flex: 2;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+}
+
+.Head{
+    background-color: antiquewhite;
+    height: 100px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Intro{
+    background-color: rgb(200, 253, 253);
+    height: 70px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.B1{
+    display: block;
+    background-color: rgb(226, 199, 252);
+    flex: 1;
+    height: 300px;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.B2{
+    display: block;
+    background-color: rgb(226, 199, 252);
+    flex: 1;
+    height: 300px;
+    margin-top: 15px;
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.B3{
+    display: block;
+    background-color: rgb(226, 199, 252);
+    flex: 1;
+    height: 300px;
+    margin-top: 15px;
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Footer{
+    background-color: rgb(192, 192, 255);
+    margin-top: 10px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
